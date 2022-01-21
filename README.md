@@ -8,7 +8,7 @@ To use the password generator first click the link below.
 
 [Click me!](https://e-albert.github.io/ultimate-password-generator/)
 
-Upon entering the site you will be asked to choose to the length and if you would like to add certain criteia to your password. After, a password will be generated for on the screen.
+Upon entering the site you will be asked to choose to the length and if you would like to add certain criteria to your password. After, a password will be generated for on the screen.
 
 Here is a example of a password that was generated.
 
