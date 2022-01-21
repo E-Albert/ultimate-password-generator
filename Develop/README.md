@@ -12,5 +12,5 @@ Upon entering the site you will be asked to choose to the length and if you woul
 
 Here is a example of a password that was generated.
 
-![Screenshot of website](./assets/ScreenshotOfWebsite.png)
+![Screenshot of website](/assets/ScreenshotOfWebsite.png)
  
