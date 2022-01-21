@@ -150,4 +150,3 @@ function generatePassword() {
   }
   //an event listener begins the writePassword function once the user clicks the generate password button  
 generateBtn.addEventListener("click", writePassword);
-
